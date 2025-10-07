@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Neshat!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p align="center">
+<p align="center" text-color="white">
   My social Links to Connect !!!!!
 </p>
 
