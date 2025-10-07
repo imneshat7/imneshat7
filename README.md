@@ -3,9 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Neshat!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-<p align="center" text-color="white">
-  My social Links to Connect !!!!!
-</p>
+<h2 align="center">My social Links to Connect !!!!!</h2>
 
 <p align="center">
   <a href="https://www.instagram.com/thepiyushmalhotra/">
