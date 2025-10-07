@@ -6,13 +6,13 @@
 <h2 align="center">My social Links to Connect !!!!!</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <a href="https://www.instagram.com/imneshat7/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-128.png"/>
 </a>
-  <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <a href="https://www.instagram.com/imneshat7/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-   <a href="https://www.instagram.com/thepiyushmalhotra/">
+   <a href="https://www.instagram.com/imneshat7/">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-pack-77/101/X-128.png"/>
  </a>
  </p>
