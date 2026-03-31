@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+ 👨‍💻 About Me
 ```javascript
 const Neshat = {
   role: "Frontend Developer",
@@ -40,7 +40,7 @@ const Neshat = {
 
 ---
 
-## 🚀 Featured Project
+🚀 Featured Project
 
 <div align="center">
 
@@ -52,7 +52,7 @@ const Neshat = {
 
 ---
 
-## 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
@@ -66,7 +66,7 @@ const Neshat = {
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -78,8 +78,7 @@ const Neshat = {
 </div>
 
 ---
-
-## 📫 Connect With Me
+ 📫 Connect With Me
 
 <div align="center">
 
