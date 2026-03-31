@@ -1,12 +1,9 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neshat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
-
-
-
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:090979,50:c026d3,100:06b6d4&height=220&section=header&text=Neshat&fontSize=70&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Frontend%20Developer&descSize=20&descAlignY=60&descAlign=50&animation=twinkling&text_animo=fadeInDown,1&desc_animo=fadeInDown,3" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06b6d4&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Turning+ideas+into+interfaces;Ready+to+Code+Awesome!;" alt="Typing SVG" />
 </div>
+
 
 ---
 
