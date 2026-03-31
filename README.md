@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
