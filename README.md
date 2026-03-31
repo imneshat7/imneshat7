@@ -89,9 +89,7 @@ const Neshat = {
 ![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
-<div align="center">
-<div align="center">
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%"/>
-</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&reversal=true" width="100%"/>
 </div>
