@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neshat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Neshat&fontSize=90&fontColor=7C83FD&fontAlignY=50&animation=fadeIn&stroke=7C83FD&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=ffffff&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;Building+with+React+%26+Tailwind+CSS;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
 </div>
+
 
 ---
 
