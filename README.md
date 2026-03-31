@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
-  <h1>Hi, I'm Neshat</h1>
-  <h3>Frontend Developer</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B4a2V2Z29wY2hhYjR6b2J5dTN6cTN2Z21qaGZ2YnN2aTVzaHJlZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2saalEvpjtce4/giphy.gif" alt="Space" width="100%" />
+  <br><br>
+  <h1>Neshat | Frontend Developer</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 </div>
+
 
 
 
