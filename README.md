@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,100:1F2833&height=200&section=header&text=Neshat&fontSize=80&fontColor=66FCF1&fontAlignY=38&desc=Frontend%20Developer&descColor=C5C6C7&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=66FCF1&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="100" />
+  <h1>Hi, I'm Neshat</h1>
+  <h3>Frontend Developer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 </div>
+
 
 
 
