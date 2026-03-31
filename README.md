@@ -73,8 +73,6 @@ const Neshat = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=imneshat7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&text_color=ffffff" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
 
