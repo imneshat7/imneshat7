@@ -87,6 +87,7 @@ const Neshat = {
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neshat306@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-board-orpin-three.vercel.app/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
 
 <div align="center">
