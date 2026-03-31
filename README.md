@@ -49,7 +49,7 @@ const Neshat = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **Job Board Platform** | A job listing app with real-time search & filtering | React, Vite, Tailwind CSS | [Live Demo](https://your-vercel-url.vercel.app) · [Code](https://github.com/YOUR_USERNAME/job-board) |
+| **Job Board Platform** | A job listing app with real-time search & filtering | React, Vite, Tailwind CSS | [Live Demo](https://your-vercel-url.vercel.app) · [Code](https://github.com/imneshat7/job-board) |
 
 </div>
 
@@ -59,14 +59,14 @@ const Neshat = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imneshat7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&icon_color=7C83FD&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C83FD&text_color=ffffff" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
 
 </div>
 
