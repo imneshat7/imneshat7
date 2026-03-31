@@ -9,7 +9,7 @@
 ---
 
  👨‍💻 About Me
-```javascript
+javascript
 const Neshat = {
   role: "Frontend Developer",
   stack: ["React", "Vite", "Tailwind CSS", "JavaScript"],
@@ -18,11 +18,9 @@ const Neshat = {
   goal: "Land a Frontend Developer role",
   funFact: "I debug with console.log and I'm not ashamed"
 };
-` `` 
 
----
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <div align="center">
 
@@ -38,7 +36,6 @@ const Neshat = {
 
 </div>
 
----
 
 🚀 Featured Project
 
@@ -50,7 +47,6 @@ const Neshat = {
 
 </div>
 
----
 
 🐍 Contribution Snake
 
