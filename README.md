@@ -8,8 +8,9 @@
 
 ---
 
- 👨‍💻 About Me
-javascript
+## 👨‍💻 About Me
+
+```javascript
 const Neshat = {
   role: "Frontend Developer",
   stack: ["React", "Vite", "Tailwind CSS", "JavaScript"],
@@ -18,9 +19,11 @@ const Neshat = {
   goal: "Land a Frontend Developer role",
   funFact: "I debug with console.log and I'm not ashamed"
 };
+```
 
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -36,8 +39,9 @@ const Neshat = {
 
 </div>
 
+---
 
-🚀 Featured Project
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -47,8 +51,9 @@ const Neshat = {
 
 </div>
 
+---
 
-🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -62,7 +67,7 @@ const Neshat = {
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -74,7 +79,8 @@ const Neshat = {
 </div>
 
 ---
- 📫 Connect With Me
+
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -87,11 +93,3 @@ const Neshat = {
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 </div>
-```
-
-**Three things to replace before committing:**
-1. `YOUR_VERCEL_URL` → your actual Vercel URL (appears twice)
-2. `YOUR_LINKEDIN` → your LinkedIn username
-3. `YOUR_EMAIL` → your actual Gmail address
-
-Also verify the snake SVG is actually in your `output` branch — go to your `imneshat7` repo → switch branch to `output` → confirm `github-contribution-grid-snake.svg` exists there.
