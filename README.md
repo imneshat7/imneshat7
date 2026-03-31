@@ -18,7 +18,7 @@ const Neshat = {
   learning: ["Supabase", "React Router", "Authentication"],
   goal: "Land a Frontend Developer role",
   funFact: "I debug with console.log and I'm not ashamed"
-};
+};```
 
 
 ---
