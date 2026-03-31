@@ -1,7 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neshat%20%F0%9F%9A%80&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%F0%9F%8C%8C&descAlignY=58&descSize=22&animation=twinkling" width="100%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFtZWN0Nzh1OWsyM3l0dmR0dmN5ZTN0ZGQ5dXdtbHBrNHcwaDVkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ww7GmdTfU59YQ6y17I/giphy.gif" alt="Rocket Launch" width="200" />
+  
+  <h1>Neshat | Frontend Developer</h1>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 </div>
+
 
 ---
 
