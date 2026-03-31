@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=Neshat&fontSize=90&fontColor=7C83FD&fontAlignY=50&animation=fadeIn&stroke=7C83FD&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Neshat&fontSize=90&fontColor=7C83FD&fontAlignY=50&desc=Frontend%20Developer&descAlignY=65&descSize=22&animation=twinkling" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=800&color=ffffff&center=true&vCenter=true&width=700&lines=Frontend+Developer+%F0%9F%9A%80;Building+with+React+%26+Tailwind+CSS;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
 </div>
+
 
 
 
