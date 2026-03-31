@@ -47,7 +47,7 @@ const Neshat = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **Job Board Platform** | A job listing app with real-time search & filtering | React, Vite, Tailwind CSS | [Live Demo](https://YOUR_VERCEL_URL.vercel.app) · [Code](https://github.com/imneshat7/job-board) |
+| **Job Board Platform** | A job listing app with real-time search & filtering | React, Vite, Tailwind CSS | [Live Demo](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
 
 </div>
 
@@ -86,7 +86,7 @@ const Neshat = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_VERCEL_URL.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-board-orpin-three.vercel.app/)
 
 </div>
 
