@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C83FD&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -20,8 +22,6 @@ const Neshat = {
   funFact: "I debug with console.log and I'm not ashamed"
 };
 ```
-
-
 
 ---
 
@@ -73,7 +73,6 @@ const Neshat = {
 
 <div align="center">
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
 
 </div>
@@ -92,7 +91,4 @@ const Neshat = {
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
 </div>
-
-
