@@ -91,5 +91,6 @@ const Neshat = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:16A085,100:F4D03F&height=100&section=footer" width="100%"/>
 </div>
+
