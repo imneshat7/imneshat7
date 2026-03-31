@@ -90,5 +90,8 @@ const Neshat = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%"/>
+</div>
+
 </div>
