@@ -53,10 +53,7 @@ const Neshat = {
 ---
 
 
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imneshat7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C83FD&line=7C83FD&point=ffffff" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imneshat7&theme=tokyonight&no-frame=true&row=1&column=6" width="100%"/>
 
 ---
 
