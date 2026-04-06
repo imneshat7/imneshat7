@@ -56,9 +56,10 @@ const Neshat = {
 
 <div align="center">
 
-  <img src="./profile-3d-contrib/profile-3d-contrib.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
+
 
 
 ---
