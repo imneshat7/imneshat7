@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=b388ff&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
 </div>
 
-
 ---
 
 ## 👨‍💻 About Me
@@ -12,9 +11,9 @@
 ```javascript
 const Neshat = {
   role: "Frontend Developer",
-  stack: ["React", "Vite", "Tailwind CSS", "JavaScript"],
+  stack: ["React", "Vite", "Tailwind CSS", "JavaScript", "Supabase"],
   currently: "Building a Job Board Platform",
-  learning: ["Supabase", "React Router", "Authentication"],
+  learning: ["React Router", "Authentication"],
   goal: "Land a Frontend Developer role",
   funFact: "I debug with console.log and I'm not ashamed"
 };
@@ -30,6 +29,7 @@ const Neshat = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,7 +46,7 @@ const Neshat = {
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **Job Board Platform** | A job listing app with real-time search & filtering | React, Vite, Tailwind CSS | [Live Demo](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
+| **Job Board Platform** | A job listing app with real-time search, filtering & Supabase backend | React, Vite, Tailwind CSS, Supabase | [Live Demo](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
 
 </div>
 
@@ -55,8 +55,6 @@ const Neshat = {
 ## 📈 Contribution Graph
 
 <div align="center">
-
-## 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imneshat7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C83FD&line=7C83FD&point=ffffff" width="100%"/>
 
@@ -88,7 +86,3 @@ const Neshat = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:4b0082,100:8a2be2&height=100&section=footer" width="100%"/>
 </div>
-
-
-
-
