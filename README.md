@@ -56,9 +56,10 @@ const Neshat = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imneshat7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C83FD&line=7C83FD&point=ffffff" width="100%"/>
+  <img src="./profile-3d-contrib/profile-3d-contrib.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
+
 
 ---
 
