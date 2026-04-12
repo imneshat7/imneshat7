@@ -11,9 +11,9 @@
 ```javascript
 const Neshat = {
   role: "Frontend Developer",
-  stack: ["React", "Vite", "Tailwind CSS", "JavaScript", "Supabase"],
-  currently: "Building a Job Board Platform",
-  learning: ["React Router", "Authentication"],
+  stack: ["React", "Vite", "Tailwind CSS", "JavaScript", "Supabase", "Node.js"],
+  currently: "Building full-stack apps with auth and real databases",
+  learning: ["TypeScript", "Advanced React Patterns"],
   goal: "Land a Frontend Developer role",
   funFact: "I debug with console.log and I'm not ashamed"
 };
@@ -30,23 +30,28 @@ const Neshat = {
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| **Job Board Platform** | A job listing app with real-time search, filtering & Supabase backend | React, Vite, Tailwind CSS, Supabase | [Live Demo](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
+| **Job Tracker** | Full-stack job application tracker with Supabase Auth, RLS, and full CRUD | React, Vite, Tailwind, Supabase | [Live](https://job-tracker-iota-tawny.vercel.app/) · [Code](https://github.com/imneshat7/job-tracker) |
+| **Job Board Platform** | Job listing app with real-time search, filtering and Supabase backend | React, Vite, Tailwind, Supabase | [Live](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
+| **GenericFind** | AI-powered generic medicine finder using Gemini API with secure Node.js backend | React, Node.js, Express, Gemini API | [Live](https://genericfind.vercel.app/) · [Code](https://github.com/imneshat7/genericfind) |
 
 </div>
 
@@ -55,21 +60,15 @@ const Neshat = {
 ## 📈 Contribution Graph
 
 <div align="center">
-
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
-
 </div>
-
-
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
-
 </div>
 
 ---
