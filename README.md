@@ -59,9 +59,11 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=donut&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=github_dark&hide_border=true" alt="GitHub Streak" />
