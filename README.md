@@ -96,6 +96,7 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 > AI-powered generic medicine finder using the Gemini API. Secure Node.js/Express backend on Render protects API keys. Built with React, Vite, and deployed on Vercel.
 
 **Built with:** `JavaScript   React.js   Tailwind CSS   Cascading Style Sheets (CSS)   HTML   vite   Vercel V0   supabase   Git`
+
 <a href="https://genericfind.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
 
