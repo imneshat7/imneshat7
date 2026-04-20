@@ -60,7 +60,7 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=donut&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=donut&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
