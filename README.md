@@ -1,90 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a0845,100:6441a5&height=200&section=header&text=Neshat&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22" width="100%"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=b388ff&center=true&vCenter=true&width=600&lines=Building+with+React+%26+Tailwind+CSS;Frontend+Developer+in+the+making;Turning+ideas+into+interfaces;Open+to+Frontend+Opportunities" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Neshat%20Anwer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer&descAlignY=55&descAlign=50" width="100%" />
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building%20with%20React%20%26%20Tailwind%20CSS%3BFrontend%20Developer%20in%20the%20making%3BTurning%20ideas%20into%20interfaces%3B%20Open%20to%20Frontend%20Opportunities" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-```javascript
-const Neshat = {
-  role: "Frontend Developer",
-  stack: ["React", "Vite", "Tailwind CSS", "JavaScript", "TypeScript", "Supabase", "Node.js"],
-  currently: "Building full-stack apps with auth and real databases",
-  learning: ["Advanced React Patterns"],
-  goal: "Land a Frontend Developer role",
-  funFact: "I debug with console.log and I'm not ashamed"
-};
-```
+<table>
+  <tr><td>💼 <strong>Role</strong></td><td>Frontend Intern @ Qveto Technologies</td></tr>
+  <tr><td>⏱️ <strong>Experience</strong></td><td>0–1 years (Graduate)</td></tr>
+  <tr><td>📍 <strong>Location</strong></td><td>India</td></tr>
+  <tr><td>📫 <strong>Email</strong></td><td>neshat306@gmail.com</td></tr>
+</table>
+
+Frontend Developer building responsive web apps with React.js, JavaScript, HTML5, and CSS3. Currently developing a full-stack Job Portal using React, Vite, Tailwind CSS, and Supabase. Physics graduate — I approach UI problems analytically, not just visually. Comfortable with Git/GitHub and cross-browser compatibility.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>💻 Languages</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="28" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🎨 Frontend</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="28" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>⚙️ Backend</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🗄️ Databases</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="28" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>☁️ DevOps & Cloud</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="28" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="150"><strong>🛠️ Tools</strong></td>
+    <td valign="middle"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="28" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28" /> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" height="28" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28" /> <img src="https://img.shields.io/badge/Notion-555555?style=for-the-badge" alt="Notion" height="28" /> <img src="https://img.shields.io/badge/Vite-555555?style=for-the-badge" alt="Vite" height="28" /></td>
+  </tr>
+</table>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+---
 
-</div>
+## 📊 GitHub Analytics
+
+<img src="https://komarev.com/ghpvc/?username=imneshat7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imneshat7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=donut&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imneshat7&theme=github_dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📌 [Job Tracker](https://github.com/imneshat7/job-tracker)
 
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| **Job Tracker** | Full-stack job application tracker with Supabase Auth, RLS, and full CRUD | React, Vite, Tailwind, Supabase | [Live](https://job-tracker-iota-tawny.vercel.app/) · [Code](https://github.com/imneshat7/job-tracker) |
-| **Job Board Platform** | Job listing app with real-time search, filtering and Supabase backend | React, Vite, Tailwind, Supabase | [Live](https://job-board-orpin-three.vercel.app/) · [Code](https://github.com/imneshat7/job-board) |
-| **GenericFind** | AI-powered generic medicine finder using Gemini API with secure Node.js backend | React, Node.js, Express, Gemini API | [Live](https://genericfind.vercel.app/) · [Code](https://github.com/imneshat7/genericfind) |
+> A full-stack job application tracker built with React and Supabase. Track every application, update statuses, and filter by stage — all with per-user authentication and data isolation.
 
-</div>
+**Built with:** `React.js Vite Tailwind CSS Supabase (Auth + PostgreSQL) Vercel TypeScript`
 
----
+<a href="https://job-tracker-iota-tawny.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
-## 📈 Contribution Graph
+### 📌 [Job Board Platform](https://github.com/imneshat7/job-board)
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
-</div>
+> A full-stack job portal web app where users can browse, search, and filter job listings with data served from a live database.
 
----
+**Built with:** `React 18 Vite Tailwind CSS v3 React Router DOM Supabase (PostgreSQL database + REST API) Vercel (deployment)`
 
-## 📊 GitHub Stats
+<a href="https://job-board-orpin-three.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C83FD&ring=7C83FD&fire=ff6b6b&currStreakLabel=7C83FD" />
-</div>
+### 📌 [Generic Find](https://github.com/imneshat7/genericfind)
+
+> AI-powered generic medicine finder using the Gemini API. Secure Node.js/Express backend on Render protects API keys. Built with React, Vite, and deployed on Vercel.
+
+**Built with:** `JavaScript   React.js   Tailwind CSS   Cascading Style Sheets (CSS)   HTML   vite   Vercel V0   supabase   Git`
+
+<a href="https://genericfind.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imneshat7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/anwer_neshat" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/imneshat7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/anwerneshat/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imneshat7)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neshat306@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-board-orpin-three.vercel.app/)
-![Profile Views](https://komarev.com/ghpvc/?username=imneshat7&color=7C83FD&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:4b0082,100:8a2be2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
