@@ -97,6 +97,9 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 
 **Built with:** `JavaScript   React.js   Tailwind CSS   Cascading Style Sheets (CSS)   HTML   vite   Vercel V0   supabase   Git`
 <a href="https://genericfind.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
+
+
+
 ---
 
 ## 🌐 Connect With Me
