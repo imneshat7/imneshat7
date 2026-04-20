@@ -59,18 +59,17 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imneshat7&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imneshat7&layout=donut&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imneshat7&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imneshat7&theme=github_dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+</div>
 
 ---
 
@@ -113,5 +112,5 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:4b0082,100:8a2be2&height=100&section=footer" width="100%"/>
 </div>
