@@ -54,7 +54,7 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 
 ## 📊 GitHub Analytics
 
-<img src="https://komarev.com/ghpvc/?username=imneshat7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 <div align="center">
 <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
@@ -113,6 +113,7 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
   <a href="https://github.com/imneshat7" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/anwerneshat/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=imneshat7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 ---
 
