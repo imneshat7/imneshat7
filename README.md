@@ -56,7 +56,7 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/imneshat7/imneshat7/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 
