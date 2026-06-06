@@ -81,23 +81,23 @@ Frontend Developer building responsive web apps with React.js, JavaScript, HTML5
 
 > A full-stack job application tracker built with React and Supabase. Track every application, update statuses, and filter by stage — all with per-user authentication and data isolation.
 
-**Built with:** `React.js Vite Tailwind CSS Supabase (Auth + PostgreSQL) Vercel TypeScript`
+**Built with:** `React.js` `Vite` `Tailwind CSS` `TypeScript` `Supabase (Auth + PostgreSQL + RLS)` `Vercel`
 
 <a href="https://job-tracker-iota-tawny.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
-### 📌 [Job Board Platform](https://github.com/imneshat7/job-board)
+### 📌 [Notice Board](https://github.com/imneshat7/notice-board)
 
-> A full-stack job portal web app where users can browse, search, and filter job listings with data served from a live database.
+> A role-based notice board app where admins can post announcements and users can view them in real time. Built with Next.js, Prisma ORM, and Supabase PostgreSQL.
 
-**Built with:** `React 18 Vite Tailwind CSS v3 React Router DOM Supabase (PostgreSQL database + REST API) Vercel (deployment)`
+**Built with:** `Next.js` `Prisma` `Supabase (PostgreSQL)` `Tailwind CSS` `Vercel`
 
-<a href="https://job-board-orpin-three.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
+<a href="https://notice-board-sandy.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
 ### 📌 [Generic Find](https://github.com/imneshat7/genericfind)
 
 > AI-powered generic medicine finder using the Gemini API. Secure Node.js/Express backend on Render protects API keys. Built with React, Vite, and deployed on Vercel.
 
-**Built with:** `JavaScript   React.js   Tailwind CSS   Cascading Style Sheets (CSS)   HTML   vite   Vercel V0   supabase   Git`
+**Built with:** `React.js` `Vite` `Tailwind CSS` `Node.js` `Express.js` `Gemini API` `Render` `Vercel`
 
 <a href="https://genericfind.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge" alt="Live Demo" /></a>
 
